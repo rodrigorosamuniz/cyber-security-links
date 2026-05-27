@@ -62,7 +62,7 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 
 ### Calendários de Eventos
 - [Conferências de Infosec 2026 (Global)](https://infosec-conferences.com/) - Calendário atualizado de eventos globais.
-- [Agenda de Eventos (Segurança Legal)](https://www.segurancalegal.com/p/agenda.html) - Ótima fonte para eventos nacionais.
+- [Calendário de Eventos de Segurança (AnchisesBR)](https://anchisesbr.blogspot.com/2025/12/seguranca-calendario-de-eventos-de.html) - Excelente fonte para eventos nacionais em 2026.
 
 ### Comunidades
 - [r/secbr (Reddit)](https://www.reddit.com/r/secbr/) [PT-BR] - Principal comunidade brasileira no Reddit.
