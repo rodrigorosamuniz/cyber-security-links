@@ -45,10 +45,20 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 
 *Fontes de conteúdo aprofundado para estudo complementar e acompanhamento de tendências.*
 
-### Portais e Feeds Técnicos
+### Portais e Feeds Técnicos (Internacional)
 - [The Hacker News](https://thehackernews.com/) - Notícias e análises sobre vulnerabilidades e ataques globais.
+- [SecurityWeek](https://www.securityweek.com/) - Notícias, insights e análises de especialistas em cibersegurança.
+- [Cyber Security News](https://cybersecuritynews.com/) - Cobertura de ameaças, ataques e novas tecnologias.
 - [Awesome Security Feed](https://github.com/mrtouch93/awesome-security-feed) - Agregador de fontes de inteligência de ameaças.
+
+### Portais e Feeds Técnicos (Brasil)
+- [Boletim Sec](https://boletimsec.com/) - Notícias e inteligência de segurança focada no mercado brasileiro.
+- [CyberSecurity Summit Brazil (Blog)](https://www.cybersecbrazil.com.br/blog) - Artigos e tendências discutidas nos maiores eventos do país.
+- [TI Inside](https://tiinside.com.br/) - Cobertura de tecnologia e segurança com foco em negócios.
 - [Blogs Brasileiros sobre Segurança](https://sseguranca.blogspot.com/2008/12/blogs-brasileiros-sobre-seguranca-links.html) - Compilado histórico de referências nacionais.
+
+### Inteligência de Ameaças e Dark Web
+- [Daily Dark Web](https://dailydarkweb.net/) - Monitoramento de vazamentos e atividades em fóruns da Dark Web.
 
 ### Estudos em Áudio
 - [Cybersecurity Podcasts (Splunk)](https://www.splunk.com/en_us/blog/learn/cybersecurity-podcasts.html) [EN] - Seleção de podcasts focados em aprendizado e tendências.
@@ -69,7 +79,8 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 - [r/cybersecurity (Reddit)](https://www.reddit.com/r/cybersecurity/) [EN] - Discussões globais e carreira.
 - [r/Infosec (Reddit)](https://www.reddit.com/r/Infosec/) [EN] - Foco técnico e compartilhamento de recursos.
 
-### Canais Diretos
+### Canais Diretos e Redes
+- [DarkWeb Informer (X/Twitter)](https://x.com/DarkWebInformer) - Alertas rápidos sobre vazamentos de dados e ataques de ransomware.
 - [Canal de Notícias (WhatsApp)](https://whatsapp.com/channel/0029ValAOBe96H4NQT4AEf20) - Atualizações rápidas e diretas.
 - [BleepingComputer (Telegram)](https://t.me/BleepingComputer) - Comunidade técnica e alertas.
 - [Red Team Bro (Telegram)](https://t.me/RedTeambro) - Discussões focadas em técnicas ofensivas.
