@@ -35,6 +35,7 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 
 *Plataformas para treinamento prático, simulações de ambientes e desafios (CTF).*
 
+- [PortSwigger Academy](https://portswigger.net/web-security) - Treinamento gratuito e laboratórios interativos sobre segurança web dos criadores do Burp Suite.
 - [TryHackMe](https://tryhackme.com/) - Laboratórios práticos de cibersegurança para todos os níveis.
 - [Hack The Box](https://www.hackthebox.com/) - Plataforma avançada para treinamento de testes de invasão e segurança ofensiva.
 
@@ -59,7 +60,16 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 
 *Comunidades e canais para interação, troca de experiências e suporte entre profissionais.*
 
-- [Eventos Infosec Brasil](https://github.com/IncursioHack/Eventos-Infosec-Brasil) - Calendário centralizado de eventos e conferências no Brasil.
+### Calendários de Eventos
+- [Conferências de Infosec 2026 (Global)](https://infosec-conferences.com/) - Calendário atualizado de eventos globais.
+- [Agenda de Eventos (Segurança Legal)](https://www.segurancalegal.com/p/agenda.html) - Ótima fonte para eventos nacionais.
+
+### Comunidades
+- [r/secbr (Reddit)](https://www.reddit.com/r/secbr/) [PT-BR] - Principal comunidade brasileira no Reddit.
+- [r/cybersecurity (Reddit)](https://www.reddit.com/r/cybersecurity/) [EN] - Discussões globais e carreira.
+- [r/Infosec (Reddit)](https://www.reddit.com/r/Infosec/) [EN] - Foco técnico e compartilhamento de recursos.
+
+### Canais Diretos
 - [Canal de Notícias (WhatsApp)](https://whatsapp.com/channel/0029ValAOBe96H4NQT4AEf20) - Atualizações rápidas e diretas.
 - [BleepingComputer (Telegram)](https://t.me/BleepingComputer) - Comunidade técnica e alertas.
 - [Red Team Bro (Telegram)](https://t.me/RedTeambro) - Discussões focadas em técnicas ofensivas.
