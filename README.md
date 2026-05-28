@@ -35,6 +35,7 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 
 *Plataformas para treinamento prático, simulações de ambientes e desafios (CTF).*
 
+- [APIsec University](https://www.apisecuniversity.com/) - Cursos e trilhas gratuitas focadas em segurança de APIs, com conteúdo prático para desenvolvimento seguro e testes.
 - [PortSwigger Academy](https://portswigger.net/web-security) - Treinamento gratuito e laboratórios interativos sobre segurança web dos criadores do Burp Suite.
 - [TryHackMe](https://tryhackme.com/) - Laboratórios práticos de cibersegurança para todos os níveis.
 - [Hack The Box](https://www.hackthebox.com/) - Plataforma avançada para treinamento de testes de invasão e segurança ofensiva.
@@ -63,6 +64,9 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 ### Estudos em Áudio
 - [Cybersecurity Podcasts (Splunk)](https://www.splunk.com/en_us/blog/learn/cybersecurity-podcasts.html) [EN] - Seleção de podcasts focados em aprendizado e tendências.
 - [Segurança Legal](https://open.spotify.com/show/61ScjrHNAs7fAYrDfw813J) [PT-BR] - Discussões sobre Direito, Tecnologia e Segurança da Informação.
+
+### Carreira e Certificações
+- [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Mapa visual para comparar certificações de segurança por domínio, nível e foco profissional.
 
 ---
 
