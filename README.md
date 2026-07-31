@@ -19,6 +19,7 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 
 - [MITRE ATT&CK](https://attack.mitre.org/) - Base de conhecimento global de táticas e técnicas de adversários baseada em observações do mundo real.
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - Orientações e padrões para gerenciar e reduzir riscos de cibersegurança.
+- [Tech Decisions for Engineers](https://thehardparts.dev/tech-decisions) [EN] - Reflexões práticas sobre decisões técnicas e arquitetura, úteis para discutir trade-offs em arquiteturas seguras.
 
 ---
 
@@ -26,8 +27,12 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 
 *Serviços e ferramentas online que auxiliam na resolução de problemas e tarefas do dia a dia.*
 
-- [VirusTotal](https://www.virustotal.com/) - Análise de arquivos e URLs suspeitas para detecção de malware.
+- [VirusTotal](https://www.virustotal.com/gui/home/upload) - Análise de arquivos e URLs suspeitas para detecção de malware.
 - [CyberChef](https://gchq.github.io/CyberChef/) - A "faca suíça" do analista de segurança para decodificação, formatação e análise de dados.
+- [CrackStation](https://crackstation.net/) [EN] - Consulta e quebra de hashes por tabelas pré-computadas, útil para aulas sobre senhas e armazenamento seguro.
+- [Hashes.com](https://hashes.com/en/decrypt/hash) [EN] - Ferramenta para identificação e recuperação de hashes em atividades de análise e investigação.
+- [Security Headers](https://securityheaders.com/) [EN] - Verificação rápida de headers HTTP de segurança em aplicações web.
+- [Shodan](https://www.shodan.io/) [EN] - Motor de busca para dispositivos, serviços expostos e superfície de ataque na Internet.
 
 ---
 
@@ -36,6 +41,7 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 *Plataformas para treinamento prático, simulações de ambientes e desafios (CTF).*
 
 - [APIsec University](https://www.apisecuniversity.com/) - Cursos e trilhas gratuitas focadas em segurança de APIs, com conteúdo prático para desenvolvimento seguro e testes.
+- [Hacksplaining](https://www.hacksplaining.com/) [EN] - Aulas e exercícios guiados sobre vulnerabilidades web comuns, com explicações acessíveis para introdução prática.
 - [PortSwigger Academy](https://portswigger.net/web-security) - Treinamento gratuito e laboratórios interativos sobre segurança web dos criadores do Burp Suite.
 - [TryHackMe](https://tryhackme.com/) - Laboratórios práticos de cibersegurança para todos os níveis.
 - [Hack The Box](https://www.hackthebox.com/) - Plataforma avançada para treinamento de testes de invasão e segurança ofensiva.
@@ -57,6 +63,9 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 - [CyberSecurity Summit Brazil (Blog)](https://www.cybersecbrazil.com.br/blog) - Artigos e tendências discutidas nos maiores eventos do país.
 - [TI Inside](https://tiinside.com.br/) - Cobertura de tecnologia e segurança com foco em negócios.
 - [Blogs Brasileiros sobre Segurança](https://sseguranca.blogspot.com/2008/12/blogs-brasileiros-sobre-seguranca-links.html) - Compilado histórico de referências nacionais.
+
+### Vulnerabilidades e CVEs
+- [Vulners](https://vulners.com/) [EN] - Base de dados e mecanismo de busca para CVEs, exploits, boletins de segurança e tendências de vulnerabilidades.
 
 ### Inteligência de Ameaças e Dark Web
 - [Daily Dark Web](https://dailydarkweb.net/) - Monitoramento de vazamentos e atividades em fóruns da Dark Web.
