@@ -2,6 +2,8 @@
 
 Recursos técnicos, ferramentas práticas e materiais de estudo para capacitação contínua e suporte ao dia a dia profissional em Cibersegurança. Este repositório é um hub vivo para alunos e profissionais que buscam aprimorar suas competências e otimizar suas tarefas diárias.
 
+> Use os recursos deste repositório apenas em ambientes próprios, autorizados ou de laboratório.
+
 ## 📋 Sumário
 
 - [📚 Fundamentos e Metodologias](#-fundamentos-e-metodologias)
@@ -9,6 +11,7 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 - [🔬 Laboratórios e Prática](#-laboratórios-e-prática)
 - [📖 Referências e Atualização Técnica](#-referências-e-atualização-técnica)
 - [🤝 Networking e Troca de Conhecimento](#-networking-e-troca-de-conhecimento)
+- [🧭 Apoio às Disciplinas](#-apoio-às-disciplinas)
 - [⚖️ Licença](#-licença)
 
 ---
@@ -97,6 +100,20 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 - [Canal de Notícias (WhatsApp)](https://whatsapp.com/channel/0029ValAOBe96H4NQT4AEf20) - Atualizações rápidas e diretas.
 - [BleepingComputer (Telegram)](https://t.me/BleepingComputer) - Comunidade técnica e alertas.
 - [Red Team Bro (Telegram)](https://t.me/RedTeambro) - Discussões focadas em técnicas ofensivas.
+
+---
+
+## 🧭 Apoio às Disciplinas
+
+*Sugestões de uso dos recursos por assunto, para facilitar a preparação de aulas e atividades práticas.*
+
+- **Técnicas de Ataque e Defesa Cibernética**: MITRE ATT&CK, VirusTotal, CyberChef, Security Headers, Shodan, TryHackMe e Hack The Box.
+- **Ethical Hacking**: PortSwigger Academy, Hacksplaining, TryHackMe, Hack The Box, Shodan e Security Headers.
+- **Políticas de Segurança**: NIST Cybersecurity Framework, SecurityWeek, Boletim Sec, TI Inside e Segurança Legal.
+- **Introdução a Arquiteturas Seguras**: NIST Cybersecurity Framework, Tech Decisions for Engineers, Security Headers, APIsec University e PortSwigger Academy.
+- **Segurança de Dados**: CrackStation, Hashes.com, CyberChef, VirusTotal, Segurança Legal e Security Certification Roadmap.
+- **Projeto Integrador: Análise e Mitigação de Vulnerabilidades e Ameaças**: Vulners, MITRE ATT&CK, The Hacker News, Cyber Security News, Daily Dark Web, Shodan e Awesome Security Feed.
+- **Princípios de Segurança da Informação**: NIST Cybersecurity Framework, MITRE ATT&CK, Security Certification Roadmap, r/secbr e r/cybersecurity.
 
 ---
 
