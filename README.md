@@ -32,6 +32,7 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) - Análise de arquivos e URLs suspeitas para detecção de malware.
 - [CyberChef](https://gchq.github.io/CyberChef/) - A "faca suíça" do analista de segurança para decodificação, formatação e análise de dados.
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 - [CrackStation](https://crackstation.net/) [EN] - Consulta e quebra de hashes por tabelas pré-computadas, útil para aulas sobre senhas e armazenamento seguro.
 - [Hashes.com](https://hashes.com/en/decrypt/hash) [EN] - Ferramenta para identificação e recuperação de hashes em atividades de análise e investigação.
 - [Security Headers](https://securityheaders.com/) [EN] - Verificação rápida de headers HTTP de segurança em aplicações web.
