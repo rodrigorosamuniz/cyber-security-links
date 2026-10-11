@@ -85,7 +85,7 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 
 ## ✍️ Artigos do Autor
 
-*Artigos de Rodrigo Rosa Muniz publicados no Medium sobre cibersegurança, bug bounty e certificações.*
+*Artigos de Rodrigo Muniz publicados no Medium sobre cibersegurança, bug bounty e certificações.*
 
 - [Unwritten Rules of Cybersecurity](https://medium.com/@rodrigorosamuniz/unwritten-rules-of-cybersecurity-17b6dc7453c1) [EN] - Reflexões sobre regras não escritas da cibersegurança.
 - [Another Perspective on Bug Bounties](https://medium.com/@rodrigorosamuniz/another-perspective-on-bug-bounties-9c7542511dc7) [EN] - Uma perspectiva sobre programas de bug bounty.
