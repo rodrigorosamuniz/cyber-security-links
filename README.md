@@ -10,6 +10,7 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 - [🛠️ Ferramentas e Utilitários de Campo](#-ferramentas-e-utilitários-de-campo)
 - [🔬 Laboratórios e Prática](#-laboratórios-e-prática)
 - [📖 Referências e Atualização Técnica](#-referências-e-atualização-técnica)
+- [✍️ Artigos do Autor](#-artigos-do-autor)
 - [🤝 Networking e Troca de Conhecimento](#-networking-e-troca-de-conhecimento)
 - [🧭 Apoio às Disciplinas](#-apoio-às-disciplinas)
 - [⚖️ Licença](#-licença)
@@ -79,6 +80,16 @@ Recursos técnicos, ferramentas práticas e materiais de estudo para capacitaç�
 
 ### Carreira e Certificações
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Mapa visual para comparar certificações de segurança por domínio, nível e foco profissional.
+
+---
+
+## ✍️ Artigos do Autor
+
+*Artigos de Rodrigo Rosa Muniz publicados no Medium sobre cibersegurança, bug bounty e certificações.*
+
+- [Unwritten Rules of Cybersecurity](https://medium.com/@rodrigorosamuniz/unwritten-rules-of-cybersecurity-17b6dc7453c1) [EN] - Reflexões sobre regras não escritas da cibersegurança.
+- [Another Perspective on Bug Bounties](https://medium.com/@rodrigorosamuniz/another-perspective-on-bug-bounties-9c7542511dc7) [EN] - Uma perspectiva sobre programas de bug bounty.
+- [How I Earned the AWS Security Specialty Certification](https://medium.com/@rodrigorosamuniz/how-i-earned-the-aws-security-specialty-certification-0ce88f472c91) [EN] - Relato sobre a conquista da certificação AWS Security Specialty.
 
 ---
 
